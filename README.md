@@ -16,7 +16,7 @@ git clone https://github.com/yourfork/muti-file-sharing.git
 cd muti-file-sharing
 
 # 2. Create a virtual environment
-python -m venv .venv
+python3 -m venv .venv
 source .venv/bin/activate      # Windows: .venv\Scripts\activate
 
 # 3. Install dependencies
