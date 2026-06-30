@@ -7,7 +7,7 @@ from logging.handlers import RotatingFileHandler
 
 
 #Bot token @Botfather
-TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "8957819603:AAEC5k04y1dMo2a73hzhXYkCgt1hy9cQjcc")
+TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "7844781484:AAHH7L5hBFGkjgn5Q2yHDghRZF_X77cDntE")
 
 #Your API ID from my.telegram.org
 APP_ID = int(os.environ.get("APP_ID", "14298205"))
@@ -32,7 +32,7 @@ DB_NAME = os.environ.get("DATABASE_NAME", "fileshare_bot")
 FORCE_SUB_CHANNEL_1 = int(os.environ.get("FORCE_SUB_CHANNEL_1", "-1001899642588"))
 FORCE_SUB_CHANNEL_2 = int(os.environ.get("FORCE_SUB_CHANNEL_2", "-1001849467785"))
 FORCE_SUB_CHANNEL_3 = int(os.environ.get("FORCE_SUB_CHANNEL_3", "-1001855603689"))
-FORCE_SUB_CHANNEL_4 = int(os.environ.get("FORCE_SUB_CHANNEL_4", "-1001895335215"))
+FORCE_SUB_CHANNEL_4 = int(os.environ.get("FORCE_SUB_CHANNEL_4", "-1001878979530"))
 
 
 TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "4"))
