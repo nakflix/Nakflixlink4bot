@@ -12,7 +12,7 @@
 
 ```bash
 # 1. Clone and enter the directory
-git clone https://github.com/yourfork/muti-file-sharing.git
+git clone https://github.com/nakflix/Nakflixlink4bot.git
 cd muti-file-sharing
 
 # 2. Create a virtual environment
