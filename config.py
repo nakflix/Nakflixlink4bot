@@ -25,8 +25,8 @@ OWNER_ID = int(os.environ.get("OWNER_ID", "1458235021"))
 PORT = os.environ.get("PORT", "8082")
 
 #Database 
-DB_URI = os.environ.get("DATABASE_URL", "mongodb+srv://Sadacaren4:alpha3720@nakflixtvbot.vtjzajt.mongodb.net/?retryWrites=true&w=majority")
-DB_NAME = os.environ.get("DATABASE_NAME", "fileshare_bot")
+DB_URI = os.environ.get("DATABASE_URL", "mongodb+srv://viko:alpha3720@nakflixlink4bot.lnrea.mongodb.net/?retryWrites=true&w=majority")
+DB_NAME = os.environ.get("DATABASE_NAME", "nakflixlink4bot")
 
 #force sub channel id, if you want enable force sub
 FORCE_SUB_CHANNEL_1 = int(os.environ.get("FORCE_SUB_CHANNEL_1", "-1001899642588"))
